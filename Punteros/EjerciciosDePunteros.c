@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+    Mira que si no me haces este ejercicio como a mi me gusta, te clavo un 1
+    Registrado.
+*/
 
 int mostrar(int &matrix,int &punteroDePosicion, int &subPunteroPosicion);
 
